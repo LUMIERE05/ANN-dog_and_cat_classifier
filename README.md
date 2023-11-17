@@ -10,7 +10,7 @@ ANN algorithm is construct mainly using NUMPY and PANDAS. That being said, this 
 
 The order of use of this coding:
 1. You need to run python file name "FOR MAKING DATA INPUT.py" to make data input and store it to respective folder
-2. You need to run python file name "FOR MAKING TESTING DATA.p" and "FOR MAKING TRAINING DATA.py"
+2. You need to run python file name "FOR MAKING TESTING DATA.py" and "FOR MAKING TRAINING DATA.py"
 3. You need to run python file name "FEEDFORWARD BACKPROPAGATION.py" to start learning algorithm
 4. You need to run python file name "FEEDFORWARD.py" to find best configuration
 5. You need to run python file name "main.py"
