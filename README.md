@@ -15,6 +15,9 @@ The order of use of this coding:
 4. You need to run python file name "FEEDFORWARD.py" to find best configuration
 5. You need to run python file name "main.py"
 
+note:
+you can use arduino or similar to make robot using data from ANN
+
 Dataset's source: https://github.com/laxmimerit/dog-cat-full-dataset
 
 I hope i can help you with my code :)
