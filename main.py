@@ -311,7 +311,7 @@ def kirim_data():
         # print(kucing_arduino,anjing_arduino, kucing_arduino, anjing_arduino)
 
         try:
-            Arduino.write((str(kucing1_arduino) + 'a' + str(anjing1_arduino) + 'b' + str(kucing2_arduino) + 'c' + str(anjing2_arduino) + 'd').encode('utf-8'))
+            #Arduino.write((str(kucing1_arduino) + 'a' + str(anjing1_arduino) + 'b' + str(kucing2_arduino) + 'c' + str(anjing2_arduino) + 'd').encode('utf-8'))
        
         except SerialTimeoutException:
             retry_count += 1
